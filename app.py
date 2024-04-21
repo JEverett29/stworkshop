@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Hello, Lonley Octopus!')
 st.header('Time to code dudes')
-st.subheader('Beginners welcome')
+st.subheader('Hope this works')
 
 import pandas as pd
 import numpy as np
